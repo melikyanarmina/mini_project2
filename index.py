@@ -2,6 +2,7 @@ import random
 dice_a= random.randint(1, 6)
 dice_b= random.randint(1, 6)
 
+
 first_roll=dice_a+dice_b
 print(f"First roll: {first_roll}")
 
